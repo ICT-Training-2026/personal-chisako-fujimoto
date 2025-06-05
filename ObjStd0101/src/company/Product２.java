@@ -1,3 +1,3 @@
 package company;
-public class Product2{
+public class Product２{
 }
